@@ -1,0 +1,5 @@
+- Hi, I’m @dif26542
+- I’m interested in silly console apps and uwp apps on cpp
+- I’m currently learning cpp and python
+- How to reach me: discord(shokerfei)
+- Pronouns: he/him
